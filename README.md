@@ -1,3 +1,4 @@
+# Simon Says Game
 🎮 Simon Says Game
 "Simon Says" is a classic memory game where players must repeat an increasingly complex sequence of colors. The game tests your memory and concentration skills as the sequence grows longer with each round. One wrong move, and it's game over!
 
