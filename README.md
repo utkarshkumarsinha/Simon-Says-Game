@@ -5,28 +5,28 @@
 
 🧠 How to Play
 
-Watch the sequence: The game will light up a series of colors.
+  • Watch the sequence: The game will light up a series of colors.
 
-Repeat the sequence: Click the colors in the same order.
+  • Repeat the sequence: Click the colors in the same order.
 
-Level up: Each correct round adds a new color to the sequence.
+  • Level up: Each correct round adds a new color to the sequence.
 
-Make a mistake: The game resets, and you can try again.
+  • Make a mistake: The game resets, and you can try again.
 
 🔧 Features
 
-Interactive color buttons 
+  • Interactive color buttons 
 
-Score and level tracking
+  • Score and level tracking
 
-Restart functionality
+  • Restart functionality
 
-Clean and responsive UI
+  • Clean and responsive UI
 
 🚀 Technologies Used
 
-HTML
+  • HTML
 
-CSS
+  • CSS
 
-JavaScript
+  • JavaScript
